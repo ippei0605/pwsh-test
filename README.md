@@ -13,17 +13,16 @@ pwsh
 > 起動成功、コマンドだけでなく LaunchPad からも起動できる。
 
 ### IntelliJ IDEA に PowerShell プラグインをインストールする。
-<img src="./docs/plugin.png" height="500px">
+<img src="./docs/plugin.png" width="500px">
 
 > .ps1 を作成したら、IntelliJ IDEA がプラグインをインストールするようにおすすめしてくれる。
 
-<img src="./docs/warning_alias.png" height="500px">
+<img src="./docs/warning_alias.png" width="400px">
+<img src="./docs/code_assist.png" width="400px">
 
-> エイリアスで書くと警告されるようだ。
+> * エイリアスで書くと警告されるようだ。
+> * コードアシストしてくれる。
 
-<img src="./docs/code_assist.png" height="500px">
-
-> コードアシストしてくれる。
 
 ### Hello World
 hello.ps1 を実行してみる。
