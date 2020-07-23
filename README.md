@@ -17,12 +17,13 @@ pwsh
 
 > .ps1 を作成したら、IntelliJ IDEA がプラグインをインストールするようにおすすめしてくれる。
 
-<img src="./docs/warning_alias.png" width="400px">
-<img src="./docs/code_assist.png" width="400px">
+<img src="./docs/warning_alias.png" width="500px">
 
-> * エイリアスで書くと警告されるようだ。
-> * コードアシストしてくれる。
+> エイリアスで書くと警告されるようだ。
 
+<img src="./docs/code_assist.png" width="500px">
+
+> コードアシストしてくれる。
 
 ### Hello World
 hello.ps1 を実行してみる。
